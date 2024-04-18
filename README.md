@@ -13,7 +13,7 @@ I emphasize my commitment to individual freedom and respect for the General Data
 1. 🧑‍🔬 Facial recognition based on a database existing on the user's machine (law enforcement).
 2. 🔎 Image comparer to compare two images and confirm if it is the same person (law enforcement).
 3. 🌐 Enumerator of devices connected to your home network, checking IP address, MAC address and device manufacturer (network security).
-4. 🕵️‍♂️ Public safety event data analyzer. This code extracts data from a .csv table and, after analyzing this data, returns the regions with the highest crime incidence, in addition to generating a heat map (law enforcement).
+4. 🕵️‍♂️ Public safety event data analyzer: This code extracts data from a .csv table and, after analyzing this data, returns the regions with the highest crime incidence, in addition to generating a heat map (law enforcement).
 5. 📊 Report IP Address Analyzer: This code processes data from a connection report in .html format. After processing the data, the code counts and extracts all IP addresses found in the report, in addition to producing a report with graphs and relevant information about the analyzed IP addresses (law enforcement).
 6. 📄 PDF analysis: This python script can analyze the pdf file to check if that pdf has hidden IP addresses and links. The purpose of this code is to prevent the user from executing a pdf file suspected of being malicious (cybersecurity).
 
