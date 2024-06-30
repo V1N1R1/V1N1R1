@@ -8,6 +8,7 @@ This repository was created to share Python code developed with the aim of helpi
 I recognize that I am new to Python development, and the codes available here are simple. Please feel free to collaborate, correct and contact me.
 These codes only work on the command line and preferably through Jupyter Notebook.
 I emphasize my commitment to individual freedom and respect for the General Data Protection Law. The codes aim to work with data openly available on the internet and help combat crime.
+
 *** The repositories were removed for code updates and corrections. ***
 
 ## 🔍 Available Tools
